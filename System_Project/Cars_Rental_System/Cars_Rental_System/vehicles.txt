@@ -1,0 +1,10 @@
+Toyota corolla,2022,ADC123,red,300,1,5000
+Merceds E200,2022,ABC123,black,500,1,5000
+nissan sunny,2024,TRR985,yellow,200,1,90005
+Nissan GT2,2024,AAA111,white,900,0,4000
+toyota camry,2019,ASW857,red,300,1,5000
+BMW X5,2023,BMW555,black,800,1,3500
+Hyundai Elantra,2021,HND111,silver,350,1,1000
+Ford Focus,2018,FRD456,blue,280,1,9200
+BYD F3,2024,DFR564,black,100,1,20000
+bmw 3021,2016,ASD568,red,200,1,3e+08
